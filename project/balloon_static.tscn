@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://60npi8c3vp2o"]
+
+[ext_resource type="Texture2D" uid="uid://bibwcbuydpkqt" path="res://images/balloons/balloonWhiteSm.png" id="1_jsgt5"]
+[ext_resource type="Script" uid="uid://dnxdrp7dvb45j" path="res://balloon_static.gd" id="2_jsgt5"]
+
+[node name="Balloon" type="Sprite2D" unique_id=314158991]
+texture = ExtResource("1_jsgt5")
+script = ExtResource("2_jsgt5")
